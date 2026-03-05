@@ -23,7 +23,7 @@ steam_game_output.json: Dataset des jeux video de Steam
 
 ## Structure du projet
 
-* ```data```: Jeux de données
+* ```data/```: Jeux de données
 * ```notebook/```: Notebooks Jypiter
 
 ## Databricks url
