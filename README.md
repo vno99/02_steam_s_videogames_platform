@@ -29,3 +29,7 @@ steam_game_output.json: Dataset des jeux video de Steam
 ## Databricks url
 
 https://dbc-00a82fa4-80d4.cloud.databricks.com/editor/notebooks/4352544619309287?o=680946414591768
+
+## GitHub
+
+https://github.com/vno99/02_steam_s_videogames_platform
